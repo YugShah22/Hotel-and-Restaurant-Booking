@@ -8,7 +8,7 @@ const PORT = 4000;
 // Middleware
 app.use(cors());
 app.use(express.json());
-app.use("/image", express.static("public/image")); // Serve images from public/image
+app.use("/image", express.static("public/images")); // Serve images from public/image
 
 // MongoDB connection
 mongoose

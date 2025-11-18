@@ -24,7 +24,9 @@ export default function SectionWrapper({ active }: Props) {
     return (
       <>
         <FilterPanel onChange={setFilters} />
-        <HotelList filters={filters} onSelect={setSelectedHotel} />
+        <section id="hotels">
+          <HotelList filters={filters} onSelect={setSelectedHotel} />
+        </section>
       </>
     );
   }

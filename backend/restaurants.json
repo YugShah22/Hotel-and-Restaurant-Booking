@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Trishna",
+    "location": "Fort",
+    "imageUrl": "trishna.jpg"
+  },
+  {
+    "name": "The Table",
+    "location": "Colaba",
+    "imageUrl": "thetable.jpg"
+  },
+  {
+    "name": "Bombay Canteen",
+    "location": "Lower Parel",
+    "imageUrl": "bombaycanteen.jpg"
+  },
+  {
+    "name": "Wasabi by Morimoto",
+    "location": "Bandra Kurla Complex",
+    "imageUrl": "wasabi.jpg"
+  },
+  {
+    "name": "Leopold Cafe",
+    "location": "Colaba",
+    "imageUrl": "leopold.jpg"
+  },
+  {
+    "name": "Gajalee",
+    "location": "Vile Parle",
+    "imageUrl": "gajalee.jpg"
+  },
+  {
+    "name": "Yauatcha",
+    "location": "Bandra Kurla Complex",
+    "imageUrl": "yauatcha.jpg"
+  },
+  {
+    "name": "Café Mondegar",
+    "location": "Colaba",
+    "imageUrl": "cafemondegar.jpg"
+  },
+  {
+    "name": "Peshawri",
+    "location": "Bandra Kurla Complex",
+    "imageUrl": "peshawri.jpg"
+  },
+  {
+    "name": "Olive Bar & Kitchen",
+    "location": "Khar",
+    "imageUrl": "olivebar.jpg"
+  },
+  {
+    "name": "Bademiya",
+    "location": "Colaba",
+    "imageUrl": "bademiya.jpg"
+  },
+  {
+    "name": "Cafe Excelsior",
+    "location": "Churchgate",
+    "imageUrl": "cafeexcelsior.jpg"
+  },
+  {
+    "name": "Glocal Junction",
+    "location": "Andheri",
+    "imageUrl": "glocaljunction.jpg"
+  },
+  {
+    "name": "The Sassy Spoon",
+    "location": "Bandra West",
+    "imageUrl": "sassypoon.jpg"
+  },
+  {
+    "name": "Khyber",
+    "location": "Fort",
+    "imageUrl": "khyber.jpg"
+  },
+  {
+    "name": "Diabolo",
+    "location": "Worli",
+    "imageUrl": "diabolo.jpg"
+  },
+  {
+    "name": "Mahesh Lunch Home",
+    "location": "Bandra West",
+    "imageUrl": "maheshlunchhome.jpg"
+  },
+  {
+    "name": "Cafe Madras",
+    "location": "Matunga",
+    "imageUrl": "cafemadras.jpg"
+  },
+  {
+    "name": "MASTEE",
+    "location": "Borivali",
+    "imageUrl": "mastee.jpg"
+  },
+  {
+    "name": "Mirchi and Mime",
+    "location": "Andheri West",
+    "imageUrl": "mirchiandmime.jpg"
+  },
+  {
+    "name": "O Pedro",
+    "location": "Bandra Kurla Complex",
+    "imageUrl": "opedro.jpg"
+  }
+]

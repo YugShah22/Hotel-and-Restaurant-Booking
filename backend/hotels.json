@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Taj Mahal Palace",
+    "location": "Colaba",
+    "imageUrl": "taj.jpg"
+  },
+  {
+    "name": "The Oberoi",
+    "location": "Nariman Point",
+    "imageUrl": "oberoi.jpg"
+  },
+  {
+    "name": "The Leela Palace",
+    "location": "Andheri",
+    "imageUrl": "leela.jpg"
+  },
+  {
+    "name": "JW Marriott",
+    "location": "Juhu",
+    "imageUrl": "jwmarriott.jpg"
+  },
+  {
+    "name": "ITC Maratha",
+    "location": "Bandra Kurla Complex",
+    "imageUrl": "itcmaratha.jpg"
+  },
+  {
+    "name": "Trident Nariman Point",
+    "location": "Nariman Point",
+    "imageUrl": "trident.jpg"
+  },
+  {
+    "name": "Sofitel Mumbai BKC",
+    "location": "Bandra Kurla Complex",
+    "imageUrl": "sofitel.jpg"
+  },
+  {
+    "name": "Grand Hyatt Mumbai",
+    "location": "Bandra Kurla Complex",
+    "imageUrl": "grandhyatt.jpg"
+  },
+  {
+    "name": "The St. Regis Mumbai",
+    "location": "Lower Parel",
+    "imageUrl": "stregis.jpg"
+  },
+  {
+    "name": "Conrad Mumbai",
+    "location": "Bandra Kurla Complex",
+    "imageUrl": "conrad.jpg"
+  },
+  {
+    "name": "Four Seasons Hotel Mumbai",
+    "location": "Worli",
+    "imageUrl": "fourseasons.jpg"
+  },
+  {
+    "name": "The Westin Mumbai Garden City",
+    "location": "Goregaon East",
+    "imageUrl": "westin.jpg"
+  },
+  {
+    "name": "Novotel Mumbai Juhu Beach",
+    "location": "Juhu",
+    "imageUrl": "novotel.jpg"
+  },
+  {
+    "name": "Holiday Inn Mumbai International Airport",
+    "location": "Andheri East",
+    "imageUrl": "holidayinn.jpg"
+  },
+  {
+    "name": "Residency Hotel Fort",
+    "location": "Fort",
+    "imageUrl": "residency.jpg"
+  },
+  {
+    "name": "The Lalit Mumbai",
+    "location": "Andheri East",
+    "imageUrl": "lalit.jpg"
+  },
+  {
+    "name": "The Gordon House Hotel",
+    "location": "Colaba",
+    "imageUrl": "gordonhouse.jpg"
+  },
+  {
+    "name": "Hotel Marine Plaza",
+    "location": "Marine Drive",
+    "imageUrl": "marineplaza.jpg"
+  },
+  {
+    "name": "Fariyas Hotel Mumbai",
+    "location": "Colaba",
+    "imageUrl": "fariyas.jpg"
+  },
+  {
+    "name": "Hotel Sahara Star",
+    "location": "Vile Parle East",
+    "imageUrl": "saharastar.jpg"
+  },
+  {
+    "name": "The Retreat Hotel and Convention Centre",
+    "location": "Powai",
+    "imageUrl": "retreat.jpg"
+  }
+]
