@@ -15,7 +15,7 @@ export default function FilterBar({ onChange }: Props) {
   };
 
   return (
-    <div className="flex flex-col sm:flex-row gap-4 mb-6">
+    <div className="flex flex-col sm:flex-row gap-4 mb-20 px-4 sm:px-6 lg:px-8">
       <input
         type="text"
         placeholder="Search by name"

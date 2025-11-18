@@ -1,3 +1,4 @@
+'use client';
 import { useEffect, useState } from 'react';
 import RestaurantCard from './RestaurantCard';
 
@@ -49,6 +50,7 @@ export default function RestaurantList({ onSelect, filters }: Props) {
   if (error) return <p className="text-center text-red-500">{error}</p>;
 
   return (
+  <div className='px-4 sm:px-6 lg:px-8 p-10'>
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {restaurants.map((restaurant, i) => (
         <RestaurantCard
@@ -60,5 +62,6 @@ export default function RestaurantList({ onSelect, filters }: Props) {
         />
       ))}
     </div>
+  </div>
   );
 }
